@@ -5,7 +5,7 @@ By this **To Do** You can add your todos and edit it.
 -----
 
 # Discreption
-This is a [**To Do**](https://to-do-app-ashy.vercel.app/) that show you Your Region Informations:
+This is a [**To Do**](https://to-do-app-ashy.vercel.app/) web app that show you Your Region Informations:
   - Weather State
   - Exact Tempreture
   - Min tempreture
