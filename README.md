@@ -40,5 +40,5 @@ This is a [**To Do**](https://to-do-app-ashy.vercel.app/) that show you Your Reg
 
 -----
 
-# App Picture
+# Web App Screenshot
 ![Weather App Image](https://github.com/ahmedmohmd/to-do-app/blob/main/app-screenshot.png?raw=true)
