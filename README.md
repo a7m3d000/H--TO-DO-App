@@ -12,8 +12,6 @@ This is a [**To Do**](https://to-do-app-ashy.vercel.app/) that show you Your Reg
   - Max Tempreture
   - Wind Speed
 
-This App use Weather **API** from [**Open Weather Map**](https://to-do-app-ashy.vercel.app/) that contains weather information for the city name.
-
 -----
 
 # App Features
@@ -25,7 +23,7 @@ This App use Weather **API** from [**Open Weather Map**](https://to-do-app-ashy.
 -----
 
 # Languages & Technologies
-### Lauages That used in this App:
+### Lauages That used in this Web App:
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
