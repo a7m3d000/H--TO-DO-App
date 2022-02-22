@@ -35,7 +35,7 @@ This is a [**To Do**](https://to-do-app-ashy.vercel.app/) web app that show you 
   <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="drawing" width="48" height="48"/>
   <img src="https://cdn.iconscout.com/icon/free/png-64/redux-3521674-2945118.png" alt="drawing" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/>
-  <img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/nail-polish-73-761221.png" width="48" height="48"/>
+  <a href="https://www.google.gom"><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/nail-polish-73-761221.png" width="48" height="48"/></a>
 </div>
 
 -----
