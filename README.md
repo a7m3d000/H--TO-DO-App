@@ -2,27 +2,31 @@
 
 By this **To Do** You can add your todos and edit it.
 
------
+---
 
 # Discreption
-This is a [**To Do**](https://todolist-a.vercel.app/) web app that show you Your Region Informations:
-  - Weather State
-  - Exact Tempreture
-  - Min tempreture
-  - Max Tempreture
-  - Wind Speed
 
------
+This is a [**To Do**](https://todolist-a.vercel.app/) web app that show you Your Region Informations:
+
+- Weather State
+- Exact Tempreture
+- Min tempreture
+- Max Tempreture
+- Wind Speed
+
+---
 
 # App Features
-  - Reponsive
-  - Nice Design with Bootstrap Framework
-  - Speed & Good Performance
-  - Light & Dark Theme
 
------
+- Reponsive
+- Nice Design with Bootstrap Framework
+- Speed & Good Performance
+- Light & Dark Theme
+
+---
 
 # Languages & Technologies
+
 ### Lauages That used in this Web App:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -40,7 +44,8 @@ This is a [**To Do**](https://todolist-a.vercel.app/) web app that show you Your
   <a href="https://styled-components.com/"><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/nail-polish-73-761221.png" width="48" height="48"/></a>
 </div>
 
------
+---
 
 # Web App Screenshot
-![Weather App Image](https://github.com/ahmedmohmd/to-do-app/blob/main/app-screenshot.png?raw=true)
+
+![Weather App]()
